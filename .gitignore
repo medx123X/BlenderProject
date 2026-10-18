@@ -1,0 +1,14 @@
+# Blender backups
+*.blend1
+*.blend2
+*.blend@
+*.blend.lock
+
+# Temporary files
+__pycache__/
+*.pyc
+*.tmp
+
+# Render outputs
+renders/
+output/
